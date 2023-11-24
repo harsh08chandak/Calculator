@@ -1,0 +1,23 @@
+.tex-cen{
+    text-align: center;
+}
+.bg-red{
+    background-color: red;
+}
+.d-flex{
+    display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.inp{
+    width: 215px;
+    padding: 10px 30px;
+    margin-bottom: 12px;
+    border-radius: 6px;
+    border:1px solid black;
+    color: #ffc107;
+    font-size: 20px;
+    text-align: end;
+    background-color: rgba(0, 0, 0, 0.781);
+}
